@@ -1,3 +1,3 @@
 function mult(a, b) { 
-    return a * a;
+    return a * a * b;
 }
